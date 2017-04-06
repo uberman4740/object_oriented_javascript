@@ -6,6 +6,7 @@ var Enemy = function() {
     // The image/sprite for our enemies, this uses
     // a helper we've provided to easily load images
     // 2. a helper we've provided to easily load images
+    // Make a change to Karan
     this.sprite = 'images/enemy-bug.png';
 };
 
